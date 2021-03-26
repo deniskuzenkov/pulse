@@ -1,0 +1,34 @@
+{
+  "name": "pulse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniskuzenkov/pulse.git"
+  },
+  "keywords": [
+    "pulse"
+  ],
+  "author": "den",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniskuzenkov/pulse/issues"
+  },
+  "homepage": "https://github.com/deniskuzenkov/pulse#readme"
+}
